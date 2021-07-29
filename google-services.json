@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065915890930",
+    "firebase_url": "https://knoprka-e6c2e.firebaseio.com",
+    "project_id": "knoprka-e6c2e",
+    "storage_bucket": "knoprka-e6c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065915890930:android:e26aefa36a17873de4246b",
+        "android_client_info": {
+          "package_name": "ru.knopka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065915890930-o1unfed4g2qes0a0vpotgeo4dl96rn0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4B8hwh-wfp4HCI_Xc-LNs-4L3WR15Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065915890930-o1unfed4g2qes0a0vpotgeo4dl96rn0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

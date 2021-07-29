@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "Кнопка Ресайклинг",
+    "slug": "knopka",
+    "privacy": "public",
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.5.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "icon": "./assets/push-icon.png",
+      "androidMode": "collapse"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "ru.knopka",
+      "buildNumber": "1.2.0",
+      "icon": "./assets/knp_ios.png",
+      "config": {
+        "googleMapsApiKey": "AIzaSyBSCYOXpY_WB2PM7K16OEXn8toJ4zPjyfo"
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBMTc6v6QNNx3qUSrWTI5VfjOlUv-xQKNg"
+        }
+      },
+      "package": "ru.knopka",
+      "versionCode": 20,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "description": ""
+  }
+}
